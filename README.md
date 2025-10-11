@@ -1,6 +1,7 @@
 D.A.C is a server sided anticheat for unity and playfab to use as a open source security feature to your project.
 
-<img width="415" height="404" alt="Screenshot_2025-07-19_015347-removebg-preview" src="https://github.com/user-attachments/assets/5b8fe6e3-06ff-44f3-a573-64490362990e" />
+<img width="559" height="446" alt="Screenshot_2025-10-11_034803-removebg-preview" src="https://github.com/user-attachments/assets/d7aca5f1-451f-43b9-a09b-c2f6f8346d39" />
+
 
 
 learn more here
